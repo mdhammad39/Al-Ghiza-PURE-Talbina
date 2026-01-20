@@ -1,6 +1,6 @@
 # 🥣 Talbina Gold - Premium Agentic AI Project
  ## 🌟 Overview
-**Talbina Gold** is a high-end, responsive landing page dedicated to the traditional nutritious food "Talbina". This project was developed as part of the **Agentic AI Course**, showcasing the synergy between advanced AI generation and professional manual customization.
+****Talbina Gold**** is a high-end, responsive landing page dedicated to the traditional nutritious food "Talbina". This project was developed as part of the ****Agentic AI Course****, showcasing the synergy between advanced AI generation and professional manual customization.
 ---
 ## 🧠 The Agentic AI Approach
 This project is not just a result of simple coding; it is a product of **Context & Prompt Engineering**:
